@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/speechtotextwebsite/static/css/main.b02f4b65.css",
+    "main.js": "/github.io/speechtotextwebsite/static/js/main.43ed22c9.js",
+    "static/js/787.e403dcb9.chunk.js": "/github.io/speechtotextwebsite/static/js/787.e403dcb9.chunk.js",
+    "static/media/logo.svg": "/github.io/speechtotextwebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/speechtotextwebsite/index.html",
+    "main.b02f4b65.css.map": "/github.io/speechtotextwebsite/static/css/main.b02f4b65.css.map",
+    "main.43ed22c9.js.map": "/github.io/speechtotextwebsite/static/js/main.43ed22c9.js.map",
+    "787.e403dcb9.chunk.js.map": "/github.io/speechtotextwebsite/static/js/787.e403dcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b02f4b65.css",
+    "static/js/main.43ed22c9.js"
+  ]
+}
