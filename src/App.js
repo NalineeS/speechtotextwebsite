@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import useClipboard from "react-use-clipboard";
 import SpeechRecognition, {
@@ -14,7 +13,7 @@ function App() {
     SpeechRecognition.startListening({ continuous: true, language: "en-IN" });
   const { transcript, browserSupportsSpeechRecognition } =
     useSpeechRecognition();
-  if (!SpeechRecognition.browserSupportsSpeechRecognition()) {
+  if (!browserSupportsSpeechRecognition()) {
     return (
       <div className="mircophone-container">
         Browser is not Support Speech Recognition.
